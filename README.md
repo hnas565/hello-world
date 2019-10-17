@@ -5,3 +5,5 @@ Hello there! This is the first time I am creating a repository, branch, and comm
 My first attempt in creating a legitamate project for Python. 
 
 My main fields of interest include startups, financial markets, machine learning, social psychology, and philosophy. 
+
+Making a second change to the code. 
